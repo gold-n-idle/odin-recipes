@@ -1,0 +1,45 @@
+html {
+  background-color: #EFE6DD;
+}
+
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.banner {
+background-color: #F3DFA2;
+padding-top: 10px;
+
+}
+
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-bottom: -20px;
+  margin-top: -5px;
+}
+
+h2 {
+  background-color: #7EBDC2;
+  padding: 5px;
+
+}
+
+h3 {
+  font-family: cursive;
+}
+
+.recipes {
+  text-align: center;
+  font-size: 24px;
+
+}
+
+img {
+  max-width: 300px;
+}
+
+footer {
+  margin-top: 10px;
+  color: white;
+}
